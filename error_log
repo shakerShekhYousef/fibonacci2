@@ -1,0 +1,20 @@
+[26-Jun-2022 11:23:58 UTC] PHP Warning:  require(/home/futurecode/fibo.futurecode.shop/fibonacci2/vendor/autoload.php): Failed to open stream: No such file or directory in /home/futurecode/fibo.futurecode.shop/fibonacci2/artisan on line 18
+[26-Jun-2022 11:23:58 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/futurecode/fibo.futurecode.shop/fibonacci2/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/futurecode/fibo.futurecode.shop/fibonacci2/artisan:18
+Stack trace:
+#0 {main}
+  thrown in /home/futurecode/fibo.futurecode.shop/fibonacci2/artisan on line 18
+[26-Jun-2022 11:25:25 UTC] PHP Warning:  require(/home/futurecode/fibo.futurecode.shop/fibonacci2/vendor/autoload.php): Failed to open stream: No such file or directory in /home/futurecode/fibo.futurecode.shop/fibonacci2/artisan on line 18
+[26-Jun-2022 11:25:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/futurecode/fibo.futurecode.shop/fibonacci2/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/futurecode/fibo.futurecode.shop/fibonacci2/artisan:18
+Stack trace:
+#0 {main}
+  thrown in /home/futurecode/fibo.futurecode.shop/fibonacci2/artisan on line 18
+[26-Jun-2022 11:25:32 UTC] PHP Warning:  require(/home/futurecode/fibo.futurecode.shop/fibonacci2/vendor/autoload.php): Failed to open stream: No such file or directory in /home/futurecode/fibo.futurecode.shop/fibonacci2/artisan on line 18
+[26-Jun-2022 11:25:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/futurecode/fibo.futurecode.shop/fibonacci2/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/futurecode/fibo.futurecode.shop/fibonacci2/artisan:18
+Stack trace:
+#0 {main}
+  thrown in /home/futurecode/fibo.futurecode.shop/fibonacci2/artisan on line 18
+[26-Jun-2022 11:34:41 UTC] PHP Warning:  require(/home/futurecode/fibo.futurecode.shop/fibonacci2/vendor/autoload.php): Failed to open stream: No such file or directory in /home/futurecode/fibo.futurecode.shop/fibonacci2/artisan on line 18
+[26-Jun-2022 11:34:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/futurecode/fibo.futurecode.shop/fibonacci2/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/futurecode/fibo.futurecode.shop/fibonacci2/artisan:18
+Stack trace:
+#0 {main}
+  thrown in /home/futurecode/fibo.futurecode.shop/fibonacci2/artisan on line 18
